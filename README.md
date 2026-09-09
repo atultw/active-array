@@ -1,6 +1,6 @@
 # Patch Antenna Array Design for AESA Radar 
 
-Targeting 2.45GHz
+Targeting 2.45GHz with simulation in Ansys HFSS.
 
 Theo Weise
 
